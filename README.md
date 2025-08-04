@@ -1,6 +1,7 @@
 ![Logo](https://www.digital.ink/wp-content/uploads/airbnb_logo_detail.jpg)
 
 # 🏘️ Amsterdam Airbnb Listings Analysis
+# A.I.-powered data science showcase 👑
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)

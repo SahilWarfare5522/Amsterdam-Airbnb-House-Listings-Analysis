@@ -4,7 +4,7 @@
 ## 📌 Project Summary
 This project explores key patterns, pricing, and user satisfaction in Airbnb listings from Amsterdam, using:
 
-# 🤖 Powered By A.I data science showcase 👑
+# 🤖 Powered By A.I Data Science Project 👑
 All analysis and visualization in this project was built collaboratively with OpenAI’s ChatGPT 4o – ensuring clarity, aesthetics, and smart insights 💡
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
@@ -91,11 +91,11 @@ Key steps include:
 ## 📝 Executive Summary
 
 After analysis:
-- Create a concise **executive summary** (~500-600 words)
+- Created a concise **executive summary**
 - Include:
   - Snapshots of key dashboards and Python visualizations
-  - Brief descriptions (max. 50 words) for each insight
-  - A final summary paragraph (max. 50 words)
+  - Brief descriptions for each insight
+  - A final summary paragraph
 
 ---
 
